@@ -17,8 +17,8 @@ Use nested lists to append list.
 
 ## PROGRAM: 
 ```
-##Developed by:A NAVEEN KUMAR
-##Register no:21004621
+##Developed by:AB PRAGATHEESVARAN
+##Register no:21003592
 import numpy as np
 
 l1,l2 =[],[]
